@@ -26,7 +26,7 @@ x_cobra = largura_tela // 2
 y_cobra = 0
 
 # Controle
-velocidade = 10
+velocidade = 5
 x_controle = velocidade
 y_controle = 0
 
